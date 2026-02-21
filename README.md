@@ -5,7 +5,7 @@ I'm a college freshman starting on my journey to break into cybersecurity. This 
 
 
 ## Networking Documentation
-### [Home Network Security Audit](./Home-Network-Security-Audit)
+### [Home Network Security Audit](CyberKoyo/Home-Network-Security-Audit)
 
 Conducted full security audit of home network, identifying vulnerabilities and implementing industry-standard remediation measures. This project demonstrates hands-on experience with network security, router administration, and professional documentation practices.
 
