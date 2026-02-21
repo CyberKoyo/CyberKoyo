@@ -5,27 +5,27 @@ I'm a college freshman starting on my journey to break into cybersecurity. This 
 
 
 ## Networking Documentation
-### [Home Network Security Audit](CyberKoyo/Home-Network-Security-Audit)
+### [Home Network Security Audit](https://github.com/CyberKoyo/Home-Network-Security-Audit)
 
 Conducted full security audit of home network, identifying vulnerabilities and implementing industry-standard remediation measures. This project demonstrates hands-on experience with network security, router administration, and professional documentation practices.
 
 ## Python Functions
 
 
-### [Password Integrity Checker](./Python-Password-Checker)
+### [Password Password Checker](https://github.com/CyberKoyo/Python-Password-Checker)
 
 Created a function that takes an inputted password, checks it for a capital letter, number, and special character and repeats if it doesn't contain that.
 
-### [Hash Searcher](./Hash-Searcher)
+### [Hash Searcher](https://github.com/CyberKoyo/Hash-Searcher)
 Created a tool that pulls data from VirusTotal, AbuseIPDB, and OTX APIs for malware information.
 
 ## Homelabbing/Virtualization
 
-### [Windows AD](./Windows_AD.md)
+### [Windows AD](https://github.com/CyberKoyo/Windows-Active-Directory-Simulation)
 
 Configured a Windows 2022 Server with a Windows 11 Client to simulate a real-work environment.
 
-### [SIEM Server](./SIEM-Server.md)
+### [SIEM Server](https://github.com/CyberKoyo/SIEM-Simulation)
 
 Configured 3 VMs: Ubuntu server, Kali Linux, Windows 11 which displays logs from Windows 11 VM on Wazuh service hosted on Ubuntu while conducting MITRE ATT&CK techniques on it from Kali Linux.
 
