@@ -1,7 +1,7 @@
 # Cybersecurity Projects Portfolio
 
 ## About Me
-I'm a college freshman starting on my journey to break into cybersecurity. This repo is mainly to document my personal projects. It will include documentations of networking projects composed of pdfs, python scripts for different functions, and documentation about my homelabbing/virtualization journey. Enjoy!
+I'm a college freshman starting on my journey to break into cybersecurity. These repos is mainly to document my personal projects. It will include documentations of networking projects composed of pdfs, python scripts for different functions, and documentation about my homelabbing/virtualization journey. Enjoy!
 
 
 ## Networking Documentation
