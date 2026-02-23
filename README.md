@@ -29,6 +29,10 @@ Configured a Windows 2022 Server with a Windows 11 Client to simulate a real-wor
 
 Configured 3 VMs: Ubuntu server, Kali Linux, Windows 11 which displays logs from Windows 11 VM on Wazuh service hosted on Ubuntu while conducting MITRE ATT&CK techniques on it from Kali Linux.
 
+### [Malware Analysis](https://github.com/CyberKoyo/Malware-Analysis/tree/main)
+
+Configured FlareVM and Remnux VMs to safely reverse engineer, analyze, and deploy malware samples from MalwareBazaar.
 ### WireGuard
 
 Configured a self-hosted VPN to access my homelab from outside my home LAN.
+
